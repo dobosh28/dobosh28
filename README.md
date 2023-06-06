@@ -14,6 +14,6 @@ A pixel-perfect clone of OpenTable, enabling users to browse restaurants, create
 A colorful and interactive single-page application for visualizing FIFA22 footballers’ statistics using radar charts.
 
 
-🥗 [WeUnion](https://we-union.onrender.com) 🥗
+✊ [WeUnion](https://we-union.onrender.com) ✊
 
 A web application empowering users to create a Union organization, invite members via email, make and vote on grievances, launch and vote on actions and dissolve the Union if needed.
