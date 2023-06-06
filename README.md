@@ -17,3 +17,6 @@ A colorful and interactive single-page application for visualizing FIFA22 footba
 ✊ [WeUnion](https://we-union.onrender.com) ✊
 
 A web application empowering users to create a Union organization, invite members via email, make and vote on grievances, launch and vote on actions and dissolve the Union if needed.
+
+## My Skills:
+React / Redux · JavaScript · Node.js · Ruby on Rails · PostgreSQL · MongoDB · HTML · CSS · AWS S3
