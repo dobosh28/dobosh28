@@ -1,22 +1,30 @@
-# Hi, I'm Yosyp Dobosh! 👋 
+# Hi, I'm Yosyp! 👋
 
-Welcome to my GitHub! I'm a software engineer with a fervor for exploring new tech and implementing best practices, always pushing the envelope in the fast-paced world of software development.
+I'm a Computer Information Systems student concentrating in **Cybersecurity**, with a
+focus on cloud security and secure infrastructure. I like building hands-on labs that
+don't just *configure* security controls but **prove** they work.
 
-## My featured projects:
+## 🔐 Featured project
 
-🍽️ [TableOpen](https://table-open.herokuapp.com/) 🍽️
+### [AWS IAM Least-Privilege Lab](https://github.com/dobosh28/aws-iam-least-privilege-lab)
+A hands-on AWS lab, built with Terraform, that designs least-privilege IAM roles and
+**proves** them with an automated allow/deny test suite. It also demonstrates a real
+privilege-escalation path (`iam:PutRolePolicy` self-escalation), detects it with an
+intent-aware test, and remediates it — written up as a security finding.
 
-A pixel-perfect clone of OpenTable, enabling users to browse restaurants, create, modify and cancel reservations, write, edit and delete reviews, save restaurants to favorites, and filter restaurants by cuisine and location.
+`AWS` · `IAM` · `Terraform` · `least privilege` · `privilege escalation` · `Bash`
 
+## 🚀 Other projects
 
-⚽️ [FIFA22_RadarViz](https://dobosh28.github.io/FIFA22_RadarViz/) ⚽️ 
+🍽️ [TableOpen](https://table-open.herokuapp.com/) — an OpenTable-style reservations app:
+browse restaurants, manage reservations and reviews, favorite restaurants, and filter by
+cuisine and location.
 
-A colorful and interactive single-page application for visualizing FIFA22 footballers’ statistics using radar charts.
+⚽️ [FIFA22_RadarViz](https://dobosh28.github.io/FIFA22_RadarViz/) — an interactive
+single-page app visualizing FIFA22 player statistics with radar charts.
 
+## 🧰 Skills
 
-✊ [WeUnion](https://we-union.onrender.com) ✊
-
-A web application empowering users to create a Union organization, invite members via email, make and vote on grievances, launch and vote on actions and dissolve the Union if needed.
-
-## My Skills:
-React / Redux · JavaScript · Node.js · Ruby on Rails · PostgreSQL · MongoDB · HTML · CSS · AWS S3
+**Cloud & Security:** AWS (IAM, S3, STS, Budgets) · Terraform · least-privilege design · policy simulation & validation
+**Languages & Tools:** JavaScript · Ruby · Bash · Git
+**Web:** React / Redux · Node.js · Ruby on Rails · PostgreSQL · MongoDB · HTML · CSS
